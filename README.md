@@ -5,4 +5,5 @@ This project applied LCCM to model commuters as different classes based on surve
 
 LCCM package source: https://github.com/ferasz/LCCM
 
+![image](https://github.com/xiamze/latent_class_choice_model/blob/main/Images/model_params.png)
 ![image](https://github.com/xiamze/latent_class_choice_model/blob/main/Images/membership_share.png)
