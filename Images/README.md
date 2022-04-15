@@ -1,1 +1,1 @@
-# Image folder
+Image folder
